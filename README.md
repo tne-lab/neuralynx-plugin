@@ -6,7 +6,7 @@ Plugin for the Open Ephys GUI to read data from Nerualynx systems such as ATLAS 
 
 The terms and conditions have been updated: No longer require an NDA for covering the Open Ephys plugin
 
-Please visit [Neuralynx input plugin](https://github.com/tne-lab/neuralynx-plugin.git) for the code.
+Please visit [Neuralynx input plugin](https://github.com/tne-lab/neuralynx-input) for the code.
 Currently maintained by: nagra007@umn.edu
 
 ![Neuralynx Input plugin](nlx_editor.png)
